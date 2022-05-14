@@ -1,1 +1,3 @@
-# ipm-java-05-2022-UD22-ej1
+# bootcampJavaAngular_u22_ej1
+Este repositorio contiene el ejercicio 1 resuelto de la unidad 22.  
+El tema: MVC.
